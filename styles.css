@@ -1,4 +1,5 @@
 
-input[type="button"] {
-    background-color: blue;
+button {
+    background-color: green;
+    color: white;
 }
